@@ -1,3 +1,4 @@
+fork 自 https://github.com/xuruoyu/bilibili_manga_downloader
 # B站漫画下载
 已经支持整本漫画下载，其他还没研究怎么下，暂时对我来说够用了
 
